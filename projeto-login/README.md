@@ -1,5 +1,5 @@
 Formulário de Login Elegante
-Criado por: biyamin-js (https://github.com/biyamin-js)
+Criado por: Zak Dev (https://github.com/zaak-dev)
 
 Um formulário de login moderno e elegante com design rosé gold, desenvolvido com HTML, CSS e JavaScript. Interface limpa, responsiva e com interações suaves para melhor experiência do usuário.
 
@@ -21,4 +21,5 @@ Gradientes rosé gold
 Ícones Font Awesome
 Cantos arredondados
 Sombra sutil
+
 Efeitos de hover interativos
